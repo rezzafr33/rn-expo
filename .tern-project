@@ -1,0 +1,20 @@
+{
+    "ecmaVersion": 6,
+    "loadEagerly": [
+        "./node_modules/react/dist/react.js",
+        "./node_modules/react-native/Libraries/react-native/react-native-implementation.js"
+    ],
+    "plugins": {
+        "node": true,
+        "es_modules": true,
+        "complete_strings": {},
+        "node": {},
+        "angular": {},
+        "requirejs": {},
+        "modules": {},
+        "es_modules": {},
+        "doc_comment": {
+            "fullDocs": true
+        }
+    }
+}
